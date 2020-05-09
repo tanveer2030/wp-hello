@@ -1,0 +1,19 @@
+{
+  "name": "tanveer2030/wp-hello",
+  "description": "This is test plugin to print hello inside wp admin",
+  "keywords": ["wordpress", "plugin", "hello"],
+  "homepage": "https://www.linkedin.com/in/tanveer2030",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tanveer Hussain",
+      "email": "tanveer2030@gmail.com",
+      "homepage": "https://www.linkedin.com/in/tanveer2030"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.0.6"
+  }
+}
